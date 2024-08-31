@@ -1,0 +1,8 @@
+{
+  "name": "confess",
+  "description": "Confess to you crush anonymously.",
+  "usage": "confess <to> | <from>",
+  "data": "https://pastebin.com/raw/Yjtmr9Le",
+  "category": "Fun",
+  "author": "PJ"
+}
